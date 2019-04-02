@@ -1,6 +1,6 @@
 ## Solution for so question
 
-https://stackoverflow.com/questions/55481030/express-create-react-app-serving-static-folders-in-directory?noredirect=1#comment97672700_55481030
+https://stackoverflow.com/questions/55481030/express-create-react-app-serving-static-folders-in-directory
 
 
 Express code is in `server/server.js`
