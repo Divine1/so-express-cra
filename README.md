@@ -19,4 +19,6 @@ So, you can just run the program `node server/server.js` and check the output.
 
 See if the output is in the way that you wanted your program to be like.
 
+You can see the clean url, `BrowserRouter` is used here
+
 Let me know if it helps :)
