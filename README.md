@@ -22,4 +22,6 @@ See if the output is in the way that you wanted your program to be like.
 
 You can see the clean url, `BrowserRouter` is used here
 
+React project boilerplate setup created using `npm install -g create-react-app`
+
 Let me know if it helps :)
