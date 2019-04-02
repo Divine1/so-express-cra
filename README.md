@@ -13,9 +13,9 @@ if you take a look at `server/server.js` you can find that i've assigned the vie
 `npm run build` is to generate prod environment js bundle that was written using `react`
 
 
-i've already generated the required js bundle with `react-router-dom` and its available in `build` directory. 
+i've already generated the required js bundle with `react-router-dom` and its available in `build` directory. The generated `build` directory is also checked-in here.
 
-You can just run the program `node server/server.js` and check the output.
+So, you can just run the program `node server/server.js` and check the output.
 
 See if the output is in the way that you wanted your program to be like.
 
