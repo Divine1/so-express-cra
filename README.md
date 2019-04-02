@@ -3,7 +3,8 @@
 https://stackoverflow.com/questions/55481030/express-create-react-app-serving-static-folders-in-directory
 
 
-Express code is in `server/server.js`
+Express code is in `server/server.js`. 
+React code with `react-router-dom` is in `./src/`
 
 Start the express server using `node server/server.js`
 
